@@ -47,7 +47,7 @@ class Person2 implements PrintText, FillData {
     }
 }
 
-// Класс 2
+// Класс  2
 class Magic extends Person {
     String magic;
 
