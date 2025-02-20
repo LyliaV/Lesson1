@@ -55,13 +55,11 @@ class Magic extends Person {
 
     public void printAll() {
         fillData();
-        int i = 5;
-        Integer a = i;
         print();
         magic = "Маг";
         System.out.println( getName() + "-" + magic );
     }
-};
+}
 
 class Main {
     public static void main(String[] args) {
