@@ -5,6 +5,6 @@ import call.message.ShowTextMessage;
 public class Main {
     public static void main(String[] args) {
 
-        ShowTextMessage.main();
+        ShowTextMessage.mainTxt();
     }
 }
